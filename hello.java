@@ -1,3 +1,3 @@
 class { 
-init = 1
+b=20;
   }
