@@ -1,0 +1,3 @@
+class { 
+init = 1
+  }
